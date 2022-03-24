@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bnpl_web/static/css/main.632fb1b2.css",
+    "main.js": "/bnpl_web/static/js/main.94e616eb.js",
+    "static/media/revicons.eot": "/bnpl_web/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/bnpl_web/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/bnpl_web/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/bnpl_web/index.html",
+    "main.632fb1b2.css.map": "/bnpl_web/static/css/main.632fb1b2.css.map",
+    "main.94e616eb.js.map": "/bnpl_web/static/js/main.94e616eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.632fb1b2.css",
+    "static/js/main.94e616eb.js"
+  ]
+}
